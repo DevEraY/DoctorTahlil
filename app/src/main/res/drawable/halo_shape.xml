@@ -1,0 +1,5 @@
+<!-- res/drawable/halo_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#B300477C" /> <!-- More opaque white color -->
+</shape>

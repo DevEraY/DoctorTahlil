@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/popup_background_aboutus">
+
+    <TextView
+        android:id="@+id/popup_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Merhaba ben İstanbul Tıp fakültesi, nam-ı diğer Çapa Tıp Fakültesi 6. sınıf öğrencisiyim. Geliştirmiş olduğum bu uygulamada tahlil sonuçlarınızın yüksek veya alçak olma durumlarına göre giriş yaptıktan sonra Sonuç kısmına tıklayarak bu sonuçların ne anlama geldiği hakkında fikir sahibi olabilirsiniz. Destek ve şikayetleriniz için wellnesstieto@gmail.com adresine başvurabilirsiniz"
+        android:textSize="16sp" />
+
+</LinearLayout>

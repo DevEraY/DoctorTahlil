@@ -1,0 +1,20 @@
+<!-- res/values-en/strings.xml -->
+<resources>
+    <string name="app_name">Doktor Tahlil</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Sonuc">Sonuç</string>
+    <string name="Woman">Kadın</string>
+    <string name="Man">Erkek</string>
+    <string name="About_Us">Merhaba ben İstanbul Tıp fakültesi 6. sınıf öğrencisiyim. Geliştirmiş olduğum bu uygulamada tahlil sonuçlarınızın yüksek veya alçak olma durumlarına göre giriş yaptıktan sonra Sonuç kısmına tıklayarak bu sonuçların ne anlama geldiği hakkında fikir sahibi olabilirsiniz. Destek ve şikayetleriniz için wellnesstieto@gmail.com adresine başvurabilirsiniz</string>
+    <string name="Hakk">Hakkımızda</string>
+    <string name="ReferanceRange">Referans Aralığı: %1$s - %2$s %3$s</string>
+
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Türkçe</item>
+        <item>Suomi</item>
+    </string-array>
+</resources>

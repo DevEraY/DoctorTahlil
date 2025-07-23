@@ -1,0 +1,53 @@
+﻿Parameter;Gender;Lower_Limit;Upper_Limit;Unit;Low_Message;High_Message
+Albumin, serum(blood);nan;3.May;5.May;g/dL;A decrease in albumin can be seen in liver or kidney disorders.;An increase in albumin can be seen in dehydration.
+Albumin, serum(blood);nan;45;55;g/L;A decrease in albumin can be seen in liver or kidney diseases.;An increase in albumin can be seen in dehydration.
+Albumin, urine;nan;0;25;mg/24hr;(-);Albumin is not normally observed in urine, its presence may indicate kidney damage.
+ALT (Alanine Aminotransferase);nan;10;40;U/L;(-);ALT is an enzyme found in the liver, an increase in blood levels suggests liver damage.
+AST (Aspartate Aminotransferase);nan;10;40;U/L;(-);"AST is an enzyme found in the liver, heart, and muscles; an increase suggests damage to one of these."
+Total Cholesterol;nan;0;200;mg/dL;(-);Increased cholesterol poses a risk for heart attacks.
+HDL Cholesterol (High-Density Lipoprotein);Female;50;500;mg/dL;Low HDL poses a risk for heart attacks;HDL is protective against heart diseases.
+HDL Cholesterol (High-Density Lipoprotein);Male;40;500;mg/dL;Low HDL poses a risk for heart attacks;HDL is protective against heart diseases.
+LDL Cholesterol (Low-Density Lipoprotein);nan;0;100;mg/dL;Low LDL is protective against heart diseases.;High LDL poses a risk for heart attacks.
+Creatinine;Female;0.5;1.Eki;mg/dL;(-);High creatinine levels indicate that the kidneys are not functioning properly.
+Creatinine;Male;0.7;1.Oca;mg/dL;(-);High creatinine levels indicate that the kidneys are not functioning properly.
+Calcium;nan;8.Haz;10.Şub;mg/dL;Low calcium levels can cause muscle contractions, cramps, or diarrhea, depending on the severity.;High calcium levels can cause constipation, abdominal pain, muscle weakness, and confusion, depending on the severity.
+;;;;;;
+Chloride;nan;98;106;mEq/L;Low chloride levels can be observed in cases where the patient is vomiting or has diarrhea, and sometimes in poisoning from certain medications (Lasix, desal, hyzaar, atacand).;High chloride levels can be due to a wide range of reasons, the simplest being water loss from sweating or diarrhea, or reduced water intake.
+C-Reactive Protein (CRP);nan;0;0.8;mg/dL;(-);High CRP levels usually indicate the presence of an infection, but they can also increase in cancers and heart diseases.
+Sodium;nan;136;145;mEq/L;Low sodium levels can cause mild symptoms like confusion, but they can also lead to severe conditions like coma and death, depending on the severity.;High sodium levels can cause mild symptoms like increase in blood pressure, but they can also lead to severe conditions like coma and death, depending on the severity.
+Potassium;nan;3.Mar;5;mEq/L;Low potassium levels can cause heart arrythmia.;High potassium levels can cause heart arrythmia.
+Potassium;nan;3.May;5;mmol/L;Low potassium can cause heart arrythmias.;High potassium can cause heart arrythmia.
+Bicarbonate;nan;23;28;mEq/L;A decrease in bicarbonate levels is observed in a condition called acidosis, where the acidity of the blood increases.;An increase in bicarbonate levels is observed in a condition called alkalosis, where the acidity of the blood decreases.
+Erythrocyte Sedimentation Rate (ESR);Female;0;20;mm/hr;(-);An increase in erythrocyte sedimentation rate is an indirect indicator of increased inflammation in the body.
+Erythrocyte Sedimentation Rate (ESR);Male;0;15;mm/hr;(-);An increase in erythrocyte sedimentation rate is an indirect indicator of increased inflammation in the body.
+Fibrinogen, plasma(blood);nan;200;400;mg/dL;A decrease in fibrinogen can be a serious condition, consult your doctor.;An increase in fibrinogen is an indirect indicator of inflammation in the body.
+Folate;nan;1.Ağu;9;ng/mL;A decrease in folate causes anemia and in pregnant women can cause developmental issues in the nervous system of the newborn!;(-)
+GGT (Gamma-Glutamyl Transferase);Female;8;40;U/L;(-);GGT  can be increased in conditions affecting the liver and bile ducts.
+GGT (Gamma-Glutamyl Transferase);Male;9;50;U/L;(-);GGT can be increased in conditions affecting the liver and bile ducts.
+Haptoglobin;nan;83;267;mg/dL;A decrease in haptoglobin indicates that red blood cells are being broken down within the blood vessels.;An increase in haptoglobin is an indirect indicator of inflammation in the body.
+%HbA1c (HbA1c Percentage);nan;0;5.Haz;mg/dL;(-);High HbA1c shows your average blood sugar over the past 3 months, and high levels pose a risk for diabetes.
+WBC;;4.May;10;10*9/L;;High WBC values can increase in infections or certain leukemias.
+RDW;;9.Oca;14.May;%;(-);High RDW values, if accompanied by anemia, suggest iron deficiency.
+PLT;;150;350;10*3/uL;PLT value represents the number of platelets in the blood, and its decrease can cause bleeding disorders.;(-)
+RBC;Female;4.Şub;5.Eyl;10*6/uL;"RBC value shows the number of red blood cells in the blood, and its decrease is called anemia; investigating its cause is important.";RBC value shows the number of red blood cells in the blood, and its increase can be seen in a disease called polycythemia vera.
+RBC;Male;4.Şub;5.Eyl;10*6/uL;"RBC value shows the number of red blood cells in the blood, and its decrease is called anemia; investigating its cause is important.";RBC value shows the number of red blood cells in the blood, and its increase can be seen in a disease called polycythemia vera.
+Neutrophils, blood;;2.Oca;8;10*3/uL;Neutrophils are one of the components of our immune system, their decrease can cause severe infections. Neutropenia (low netrophil levels) can be seen in cancer, infections, some genetic conditions.;Neutrophils are one of the components of our immune system, their decrease can cause severe infections. High neutrophil levels can be seen in infection.
+Monocytes;;0.2;0.8;10*3/uL;(-);High monocytes in the blood mean some infections or leukemias are present.
+MCV;;80;100;fL;"MCV shows the average volume of red blood cells; low values can be observed in iron deficiency or B6 deficiency and also in certain genetic conditions (e.g., Thalassemia).";"MCV shows the average volume of red blood cells; high values can be observed in B12 or folic acid deficiency."
+MCHC;;33;36;g/dL;MCHC shows how many hemoglobins are present in each erythrocyte in your blood. It is used to differentiate anemias.;MCHC shows how many hemoglobins are present in each erythrocyte in your blood. It is used to differentiate spherocytosis. In spherocytosis MCHC is increased.
+MCH;;28;32;pg;MCH shows how many hemoglobins are present in each erythrocyte in your blood. It is used to differentiate anemias.;MCH shows how many hemoglobins are present in each erythrocyte in your blood. It is used to differentiate spherocytosis. In spherocytosis MCH is increased.
+Total Iron Binding Capacity (TIBC);;250;310;μg/dL;TIBC is used to asses if the iron deficiency anemia is caused by inflammation or inadequate iron in the blood. If it is low it might indicate the reason behind the anemia can be inflammation.;TIBC is used to asses if the iron deficiency anemia is caused by inflammation or inadequate iron in the blood. If it is high it might indicate the reason behind the anemia can be iron deficiency.
+Iron;Female;50;150;ug/dL;Low iron levels are commonly seen in young women, usually due to menstrual bleeding. It can cause anemia in chronic conditions.;Increased blood iron levels can be seen in a condition called Hemachromatosis.
+Iron;Male;50;150;ug/dL;Low iron levels in elderly men can be due to blood loss from intestinal bleeding.;Increased blood iron levels can be seen in a condition called Hemachromatosis.
+Ferritin;Female;24;307;ng/mL;Ferritin shows the iron stores in the body, and low levels can be observed in prolonged iron deficiency.;Increased ferritin levels can be seen in a condition called Hemachromatosis.
+Ferritin;Male;24;336;ng/mL;Ferritin shows the iron stores in the body, and low levels can be observed in prolonged iron deficiency.;Increased ferritin levels can be seen in a condition called Hemachromatosis.
+Vitamin B-12;;200;800;pg/mL;B-12 deficiency can cause neurological symptoms (memory loss, imbalance, etc.) and anemia (lack of blood).;High B-12 levels can be due to excessive intake of B12 supplements or may accompany certain diseases.
+25 -  Hydroxy vitamin D;;30;60;ng/mL;Low vitamin D causes disorders in bone and calcium metabolism.;High vitamin D can be observed with excessive intake of vitamin D supplements or in certain diseases.
+NT - pro - BNP;;0;300;pg/mL;(-);High NT-pro-BNP values indicate increased load on the heart, seen in heart failure.
+Blood urea nitrogen (BUN); ;0;20;mg/dL;Low levels of Blood Urea Nitrogen can be seen in vegans, malnourished individuals, and during prolonged fasting.;High levels of Blood Urea Nitrogen can be seen in kidney failure, heart failure, and intestinal bleeding.
+ALP (Alkaline Phosphatase);;30;120;U/L;(-);ALP can be increased in conditions that effect bile ducts.
+Uric Acid;;3;7;mg/dL;(-);High uric acid levels are usually seen in a condition called gout, which is characterized by swelling in the joints, especially in the feet.
+Total Bilirubin;;0.3;1;mg/dL;(-);Total Bilirubin can be increased in conditions that effect Liver and Bile ducts.
+Direct Bilirubin;;0.1;0.3;mg/dL;(-);Direct bilirubin be increased in conditions that effect Liver and Bile ducts.
+Indirect Bilirubin;;0.2;0.7;mg/dL;(-); Indirect Bilirubin can be increased due to hemolysis (destruction of blood cells).
+25 -  Hydroxy vitamin D;;30;60;μg/L;Low vitamin D causes disorders in bone and calcium metabolism.;High vitamin D can be observed with excessive intake of vitamin D supplements or in certain diseases.

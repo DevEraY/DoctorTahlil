@@ -1,0 +1,20 @@
+<!-- res/values-fi/strings.xml -->
+<resources>
+    <string name="app_name">Doktor Tahlil</string>
+    <string name="title_home">Pääruutu</string>
+    <string name="title_dashboard">Kojelauta</string>
+    <string name="title_notifications">Ilmoitukset</string>
+    <string name="Sonuc">Tulokset</string>
+    <string name="Woman">Nainen</string>
+    <string name="Man">Mies</string>
+    <string name="About_Us">Olen kuudennen vuoden lääketieteen opiskelija Istanbulin yliopiston lääketieteellisestä tiedekunnasta. Tässä sovelluksessa voit kirjautumisen jälkeen siirtyä "Tulokset"-osioon ymmärtääksesi testitulostesi merkityksen, olipa ne korkeat tai matalat. Jos tarvitset tukea tai sinulla on palautetta, ota yhteyttä: wellnesstieto@gmail.com</string>
+    <string name="Hakk">Tietoja meistä</string>
+    <string name="ReferanceRange">Viitearvo : %1$s - %2$s %3$s</string>
+
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Türkçe</item>
+        <item>Suomi</item>
+    </string-array>
+</resources>

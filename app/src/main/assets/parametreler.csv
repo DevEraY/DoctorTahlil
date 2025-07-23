@@ -1,0 +1,53 @@
+﻿Parameter;Gender;Lower_Limit;Upper_Limit;Unit;Low_Message;High_Message
+Albümin, serum (kan);nan;3.May;4.May;g/dL;Albüminin azalması karaciğer veya böbrek rahatsızlıklarında görülebilir;Albüminin azalması dehidratasyon dediğimiz vücut sıvısının azaldığı su tüketim ihtiyacının arttığı durumlarda gözlenir.
+Albümin, idrar;nan;0;25;mg/24hr;(-);Albumin normalde idrarda gözlenmez, gözlenmesi böbrek hasarını gösterebilir.
+ALT Alanine Aminotransferaz;nan;10;40;U/L;(-);ALT karaciğerde bulunan bir enzimdir kanda artması karaciğer hasarını düşündürür.
+ALT Alanine Aminotransferaz;nan;10;40;U/L;(-);AST karaciğerde kalpte ve kaslarda bulunan bir enzimdir artması bunlardan birinde hasarı düşündürür.
+Total  Kolesterol;nan;0;200;mg/dL;(-);Artmış kolesterol kalp krizi açısından risk oluşturmaktadır.
+HDL Kolesterol;Female;50;500;mg/dL;HDL'nin düşük olması kalp krizi açısından risk oluşturmaktadır;HDL'nin yüksek olması kalp rahatsızlıkları açısından koruyucudur.
+HDL Kolesterol;Male;40;500;mg/dL;HDL'nin düşük olması kalp krizi açısından risk oluşturmaktadır;HDL'nin yüksek olması kalp rahatsızlıkları açısından koruyucudur.
+LDL Kolesterol;nan;100;130;mg/dL;LDL'nin düşük olması kalp rahatsızlıkları açısından koruyucudur.;LDL'nin yüksek olması kalp krizi açısından risk oluşturmaktadır
+Kreatinin;Female;0.5;1.Oca;mg/dL;(-);Yüksek kreatinin değerleri böbrek fonksiyonlarının azaldığı durumlarda gözlenir.
+Kreatinin;Male;0.7;1.Mar;mg/dL;(-);Yüksek kreatinin değerleri böbrek fonksiyonlarının azaldığı durumlarda gözlenir.
+Kalsiyum;nan;1.Ara;1.Oca;mmol/L;Kalsiyum düşüklüğü düşüklüğün ciddiyetine göre kas kasılmalarına, kramplara veya ishale sebep olabilir.;Kalsiyum yüksekliği yüksekliğin ciddiyetine göre  kabızlığa, karın ağrısına,kas güçsüzlüğüne, bilinç bulanıklığına sebep olabilir. Paratiroid bezinizin fazla çalışması sebebiyle olabilir.
+Kalsiyum;nan;8.Haz;10.Şub;mg/dL;Kalsiyum düşüklüğü düşüklüğün ciddiyetine göre kas kasılmalarına, kramplara veya ishale sebep olabilir.;Kalsiyum yüksekliği yüksekliğin ciddiyetine göre  kabızlığa, karın ağrısına,kas güçsüzlüğüne, bilinç bulanıklığına sebep olabilir. Paratiroid bezinizin fazla çalışması sebebiyle olabilir.
+CRP;nan;0;0.8;mg/dL;(-);CRP yüksekliği genelde infeksiyon varlığına işaret etse de kanserlerde ve kalp rahatsızlıklarında da artabilir.
+Sodyum;nan;136;145;mEq/L;Sodyum düşüklüğü düşüklüğün ciddiyetine göre bilinç bulanıklığı gibi hafif semptomlara sebebiyet verirken, koma ve ölüm gibi ciddi durumlara da sebebiyet verebilir.;Sodyum düşüklüğü düşüklüğün ciddiyetine göre bilinç bulanıklığı gibi hafif semptomlara sebebiyet verirken, koma ve ölüm gibi ciddi durumlara da sebebiyet verebilir.
+Potasyum;nan;3.May;5;mEq/L;Potasyum düşüklüğü kalp aritmilerine sebebiyet verebilir.;Potasyum yüksekliği kalp aritmilerine sebebiyet verebilir.
+Klor;nan;98;106;mEq/L;Klor düşüklüğü hastanın kustuğu ve ishal olduğu durumlarda bazen de bazı ilaçların (Lasix, desal, hyzaar, atacand) zehirlenmelerinde gözlenebilir.;Klor yüksekliği çok geniş spektrumdaki sebeplerden dolayı olabilir bunlardan en basit olanı terlemek ve ishal gibi sebeplerle su kaybı veya su alımının azalmasıdır.
+Bikarbonat;nan;23;28;mEq/L;Bikarbonat seviyenizin azalması asidoz dediğimiz tabloda gözlenir. Kanın asitliğinin arttığı durumlarda gözlenir.;Bikarbonat seviyenizin artması alkaloz dediğimiz tabloda gözlenir. Kanın asitliğinin azaldığı durumlarda gözlenir.
+Eritrosit sedimentasyon hızı;Female;0;20;mm/hr;(-);Eritrosit sedimetasyon hızının artması vücuttaki inflamasyonun arttığının indirekt bir göstergesidir.
+Eritrosit sedimentasyon hızı;Male;0;15;mm/hr;(-);Eritrosit sedimentasyon hızının artması vücuttaki inflamasyonun arttığının indirekt bir göstergesidir.
+Fibrinojen plasma;nan;200;400;mg/dL;Fibrinojen düşüklüğü ciddi bir durum olabilir, doktorunuza mutlaka danışın.;Fibrinojen yüksekliği vücuttak inflamasyonun indirekt bir göstergesidir.
+Folat;nan;1.Ağu;9;ng/mL;Folat düşüklüğü anemiye sebebiyet vermektedir. Gebelerde yenidoğanda sinir sisteminin gelişimsel sorunlarına sebebiyet vermektedir !;
+GGT gamma glutamil trasnferaz;Female;8;40;U/L;(-);Karaciğer ve safra yollarını etkileyen bazı durumlarda artmış olabilir.
+GGT gamma glutamil trasnferaz;Male;9;50;U/L;(-);Karaciğer ve safra yollarını etkileyen bazı durumlarda artmış olabilir.
+Haptoglobin;nan;83;267;mg/dL;Haptoglobinin azaldığı durumlar bize vücuttaki  kan hücrelerin damar içinde parçalandığını gösterir.;Haptoglobin  yüksekliği vücuttak inflamasyonun indirekt bir göstergesidir.
+%HbA1c;nan;0;5.Haz;mg/dL;(-);Yüksek HbA1c son 3 aylık ortalama kan şekerinizi gösterir, yüksek olması diyabet açısından risk oluşturmaktadır.
+Tam Kan (Hemogram) WBC;;4.May;11;10*3/uL;(-);Yüksek WBC değerleri enfeksyion durumunda veya bazı lösemilerde artabilir
+Tam Kan (Hemogram) RDW;;11.May;15.May;%;(-);Yüksek RDW değeri anemiye eşlik ediyorsa demir eksikliği düşündürebilir.
+Tam Kan (Hemogram) PLT;;130;380;10*3/uL;PLT değeri kandaki trombosit sayısını ifade eder, düşüklüğü kanama bozukluklarına sebebiyet verebilir.;
+Tam Kan (Hemogram) RBC;Female;3.May;5;10*6/uL;RBC kandaki alyuvar sayısını gösterir, düşüklüğü anemi olarak adlandırılır, sebebinin araştırılması önemlidir.;
+Tam Kan (Hemogram) RBC;Male;4;5.May;10*6/uL;RBC kandaki alyuvar sayısını gösterir, düşüklüğü anemi olarak adlandırılır, sebebinin araştırılması önemlidir.;
+Tam Kan (Hemogram) Monosit (MONO);;0.2;0.8;10*3/uL;(-);Kandaki monositlerin yüksekliği anlamına gelir, bazı enfeksiyon ve lösemilerde artışı gözlenir.
+Tam Kan (Hemogram) MCV;;80;100;fL;MCV alyuvarların ortalama hacmini gösterir,  düşüklüğü demir eksikliği veya B6 eksikliğinde gözlenebilir ayrıca bazı genetik durumlarda da (Ör: Akdeniz Anemisi) gözlenebilir.;MCV alyuvarların ortalama hacmini gösterir, yüksekliği B12 veya folik asit eksikliğinde gözlenebilir.
+Tam Kan (Hemogram) MCHC;;31.May;35.5;g/dL;MCHC bir eritrosit hücresinde ortalama ne kadar hemoglobin olduğunu gösterir.  Anemi ayırıcı tanısında kullanılır.;MCHC bir eritrosit hücresinde ortalama ne kadar hemoglobin olduğunu gösterir.  Yüksekliğine sferositozda ve otoimmün hemolitik anemide gözlemleyebiliriz.
+Tam Kan (Hemogram) MCH;Female;28;32;pg;MCH bir eritrosit hücresinde ortalama ne kadar hemoglobin olduğunu gösterir.  Anemi ayırıcı tanısında kullanılır.;MCH bir eritrosit hücresinde ortalama ne kadar hemoglobin olduğunu gösterir.  Yüksekliğine sferositozda ve otoimmün hemolitik anemide gözlemleyebiliriz.
+Tam Kan (Hemogram) MCH;Male;28;32;pg;MCH bir eritrosit hücresinde ortalama ne kadar hemoglobin olduğunu gösterir.  Anemi ayırıcı tanısında kullanılır.;MCH bir eritrosit hücresinde ortalama ne kadar hemoglobin olduğunu gösterir.  Yüksekliğine sferositozda ve otoimmün hemolitik anemide gözlemleyebiliriz.
+Tam Kan (Hemogram) Nötrofil (NEUT);;2.Ağu;8;10*3/uL;Nötrofiller immün sistemimizin bir komponentidir. Düşüklüğünde ağır enfeksiyonlar gözlenebilir. Nötropeni (düşük nötrofil sayısı) durumu kanser hastalıkları, bazı genetik hastalıklarda ve bazı infeksiyonlarda gözlenebilir.;Nötrofiller immün sistemimizin bir komponentidir.Yüksek nötrofil sayıları infeksiyonlarda gözlenebilir.
+Demir;Female;50;150;ug/dL;Düşük demir seviyeleri genç kadınlarda sık karşılaşılan bir durum, kadınlarda sebebi genellikle adet kanamalarıdır. ;Yüksek demir seviyeleri hemakromatoz dediğimiz bir hastalıkta gözlenebilir.
+Demir;Male;50;150;ug/dL;Düşük demir seviyeleri  ileri yaş erkek hastalarda bağırsaktaki kanamalara bağlı kan kaybı sebebiyle olabilir.;Yüksek demir seviyeleri hemakromatoz dediğimiz bir hastalıkta gözlenebilir.
+Ferritin;Female;24;307;ng/mL;Ferritin vücuttaki demir depolarını gösterir,  uzun süreli demir eksikliğinde düşük gözlenebilir.;Yüksek ferritin seviyeleri hem enfeksiyonlarda hem de hemakromatoz dediğimiz bir hastalıkta gözlenebilir.
+Ferritin;Male;24;336;ng/mL;Ferritin vücuttaki demir depolarını gösterir,  uzun süreli demir eksikliğinde düşük gözlenebilir.;Yüksek ferritin seviyeleri hem enfeksiyonlarda hem de hemakromatoz dediğimiz bir hastalıkta gözlenebilir.
+Vitamin B-12;;200;800;pg/mL;B-12 vitamini eksikliği vücutta nörolojik şikayetler (unutkanlık, dengesizlik, vb.) şikayetler ve anemi(kansızlık) gibi durumlara yol açabilmektedir.;Yüksek B -12 seviyesi B12 vitamin takviyelerinin fazla alınması sebebiyle olabileceği gibi bazı hastalık durularına da eşlik edebilir.
+25 -  Hidroksi vitamin D;;30;60;ng/mL;Düşük D vitamini kemik ve kalsiyum metabolizmasında bozukluklara sebep olur.;Yüksek D vitamini takviye vitamin D nin fazla alınmasıyla veya bazı hastalıklarda gözlenebilir.
+NT - pro - BNP;;0;100;pg/mL;(-);Yüksek Pro-BNP değerleri kalpteki artmış yükü gösterir, kalp yetmezliğinde gözlenebilir.
+Blood urea nitrogen (BUN), Üre; ;0;20;mg/dL;Vegan beslenenlerde, yetersiz beslenenlerde, uzun süre açlık durumlarında azalmış gözlenebilir.;Böbrek yetmezliklerinde, kalp yetmezliklerinde, bağırsak kanamalarında artmış olarak gözlenebilir.
+ALP (Alkalin Fosfataz);;30;120;U/L;(-);Karaciğer ve safra yollarını etkileyen bazı durumlarda artmış olabilir.
+Ürik asit;;3;7;mg/dL;(-);Yüksek ürik asit seviyelerini genelde gut dediğimiz hastalıkta görürüz .  Gut özellikle ayak eklemlerinde şişme ile seyreden bir hastalıktır.
+Total Bilirubin;;0.3;1;mg/dL;(-);Karaciğer ve safra yollarını etkileyen bazı durumlarda artmış olabilir.
+Direkt Bilirubin;;0.1;0.3;mg/dL;(-);Safra yollarındaki tıknaıklıklarda veya kan hücrelerinin yıkımında artış olması durumunda artmış gözlenebilir.
+İndirekt Bilirubin;;0.2;0.7;mg/dL;(-);Karaciğer ve safra yollarını etkileyen bazı durumlarda artmış olabilir.
+Albumin;nan;45;55;g/L;Albüminin azalması karaciğer veya böbrek rahatsızlıklarında görülebilir.;
+Potasyum;nan;3.May;5;mmol/L;Potasyum düşüklüğü kalp rahatsızlıklarına sebebiyet verebilir.;Potasyum yüksekliği kalp rahatsızlıklarına sebebiyet verebilir.
+25 -  Hidroksi vitamin D;;30;60;μg/L;Düşük D vitamini kemik ve kalsiyum metabolizmasında bozukluklara sebep olur.;Yüksek D vitamini takviye vitamin D nin fazla alınmasıyla veya bazı hastalıklarda gözlenebilir.

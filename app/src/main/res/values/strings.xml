@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Doktor Tahlil</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Sonuc">Results</string>
+    <string name="Woman">Woman</string>
+    <string name="Man">Man</string>
+    <string name="About_Us">Hello, I am a 6th-year medical student at Istanbul University Faculty of Medicine. In this application I developed, after logging in, you can click on the "Results" section to understand what your test results mean in case they are high or low. For support and complaints, you can contact us at wellnesstieto@gmail.com.</string>
+    <string name="Hakk">About Us</string>
+    <string name="ReferanceRange">Referance Range : %1$s - %2$s %3$s</string>
+
+
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Türkçe</item>
+        <item>Suomi</item>
+    </string-array>
+
+</resources>
